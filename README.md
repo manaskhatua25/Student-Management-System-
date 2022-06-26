@@ -1,6 +1,5 @@
 # Student-Management-System-
 A small project that uses the Node JS Language Web Framework and is based on a Student Management System Project in Node JS with MongoDB. 
-The following Node JS project has all of the necessary capabilities for first- and second-year IT students to employ in their college projects. 
 It contains a number of features that allow users to maintain the records of their students and mentors. This system, as well as the web 
 application, has a clear concept that is similar to real-life scenarios and is well-implemented. 
 Moving on, this node JS project for a Student Management System is primarily concerned with dealing with students, mentors, and university data. 
